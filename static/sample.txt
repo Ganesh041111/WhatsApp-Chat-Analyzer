@@ -1,0 +1,24 @@
+09/01/20, 15:00 - group_notification: Ganesh created group "Technical Discussion"
+09/01/20, 15:00 - Nishith: My portal is not working what should i do?.
+09/01/20, 15:00 - Faizan: I am also facing the same portal issue. Is it the same case for everyone?
+09/01/20, 15:28 - Ganesh: can you please guide?
+09/01/20, 15:45 - Abhinav: Yes please let us know what to do, i am also facing same issue.
+09/01/20, 15:45 - Sahil: My portal is working fine. Can you tell me at what step you all are stuck?
+09/01/20, 15:46 - Ganesh: I am geting error while sign in for the portal.
+09/01/20, 15:47 - Abhinav: I think you should first link your email id with portal.
+09/01/20, 15:47 - Abhinav: Can you join here. https://meet.google.com/gmd-jvqi-wru
+09/01/20, 15:49 - Sahil: Yes that's correct.😊
+09/01/20, 15:55 - Ganesh: Yes done with it. Now its working. thankyou.😀👍👍
+09/01/20, 15:58 - Ganesh: Here are some of the important links 🙌 .  https://flask.palletsprojects.com/en/2.1.x/ 
+19/01/20, 20:45 - Abhinav: most welcome. You can refer following videos. https://www.youtube.com/watch?v=V53AHWun17s, also https://docs.python.org/3/ , https://www.youtube.com/watch?v=bC7o8P_Ste4 , https://www.youtube.com/watch?v=bC7o8P_Ste4.
+19/02/20, 20:45 - Sahil: Is there any course available on web development or something related to it.
+20/02/20, 20:46 - Ganesh: Yes we have one course on basics of html,css and javascript. are you intreasted?
+19/02/20, 20:46 - Abhinav: Are you going to cover all the basics in this course  . I mean you will start from scrach, right ?
+19/02/20, 20:47 - Sahil: I am intreasted in web development course . can you ellaborate it more please?
+19/02/20, 20:47 - Ganesh: Yes. we will cover all the basics . we will cover all the concepts related to it, its history till now.
+19/02/20, 20:48 - Abhinav: What are the charges for this course . Also please mention the duration for the course .
+19/02/20, 20:48 - Sahil: yes please .
+19/02/20, 20:48 - Sahil: 👍
+19/02/20, 20:48 - Ganesh: Okay so cost for the course is Rs 500 . And the duration of course will be of 2 months 😀🙌 .
+19/02/20, 20:49 - Abhinav: Okay thank you 😀.
+
